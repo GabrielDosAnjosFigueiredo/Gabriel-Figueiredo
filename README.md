@@ -1,5 +1,5 @@
 # GabrielFiguer
-Uma breve apresentação sobre mim, e algumas metas e objetivos
+Uma breve apresentação sobre mim, algumas metas e objetivos
 
 Ola, me chamo Gabriel dos anjos figueiredo mas pode me chamar so de figueiredo ou gabriel mesmo, tenho 17 anos sou estudante de ciência da computação do CESUPA na turma CC1TA.
  Atualmente meus maiores interesses na área de ciência da computação são desenvolvimento de jogos no geral, a programação como um todo por ex: java, phyton, c++, html etc, e tambem tenho me interessado bastante na area da inteligência artificial, mas de todos para mim meu principal interesse é na área dos jogos.
